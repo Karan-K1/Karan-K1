@@ -1,4 +1,13 @@
-### Hi there 👋
+<h1 align = 'center'> Hi! 👋, I am Karan Kheta<\h1>
+<h3 align = 'center'> Mechanical Engineer and aspring Data Scientist <\h3>
+
+- I am currently enrolled on the HyperionDev Data Science bootcamp.
+- I graduated from Cranfield University with a MSc in Applied Artificial Intellgience. Graduated from Swansea University with a BEng in Mechanical Engineering
+- 🌱 I’m currently learning Python.
+- 💬 Ask me about my work on the ML Enhanced Aircraft Performance Model or my dissertation on Predictive Maintenance.
+- 📫 You can reach me on: [LinkedIn](https://www.linkedin.com/in/karan-k/)
+
+  
 
 <!--
 **Karan-K1/Karan-K1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
